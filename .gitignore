@@ -39,3 +39,4 @@ testem.log
 Thumbs.db
 
 # Additional Files
+package-lock.json
